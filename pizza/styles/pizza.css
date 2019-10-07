@@ -1,0 +1,30 @@
+body {
+    background-color: red;
+}
+.btn-primary {
+    background-color: darkgreen;
+}
+
+fieldset {
+    border: 1px solid darkgreen;
+    padding: 1em;
+}
+
+.jumbotron {
+    background-color: darkgreen;
+    color: white;
+}
+
+legend {
+    font-weight: bold;
+    color: darkgreen;
+    font-variant: small-caps;
+    font-size: 125%;
+}
+
+#main {
+    background-color: white;
+    margin: 0 10em 15em 10em;
+    padding: 6em;
+}
+
